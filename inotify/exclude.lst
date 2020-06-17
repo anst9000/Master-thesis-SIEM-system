@@ -1,0 +1,42 @@
+pyinotify# File associated to exclude.py
+#
+# List of patterns using regexps as defined into re standard module.
+# These regexps are matched against submitted paths with re.match().
+
+# Put only one pattern by line.
+#^/etc/apache[2]?/
+#^/etc/rc.*
+#^/etc/hostname
+#^/etc/hosts
+#^/etc/(fs|m)tab
+#^/etc/cron\..*
+^/lastlog
+^/Xorg.0.log.old
+^/kern.log
+^/btmp
+^/wtmp
+^/messages
+^/rkhunter.log.old
+^/debug
+^/fontconfig.log
+^/user.log
+^/rkhunter.log
+^/clamAV.log
+^/alternatives.log
+^/daemon.log
+^/ufw.log
+^/Xorg.0.log
+^/faillog
+^/auth.log
+^/boot.log
+^/bootstrap.log
+^/syslog
+^/dpkg.log
+^/exim4/
+^/sysstat/
+^/lightdm/
+^/postgresql/
+^/samba/
+^/mosquitto/
+^/clamav/
+^/apt/

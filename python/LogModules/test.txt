@@ -1,0 +1,5 @@
+2020-05-19 15:21:16 CEST|[local]|postgres@postgres|12159|LOG:  statement: SELECT d.datname as "Name",
+           pg_catalog.pg_get_userbyid(d.datdba) as "Owner",
+           pg_catalog.pg_get_userbyid(d.datdba) as "Host",
+2020-05-19 15:22:16 CEST|[local]|postgres@postgres|12159|LOG:  disconnection: session time: 0     :00:00.023 user=postgres database=postgres host=[local]
+2020-05-19 15:23:16 CEST|[local]|postgres@postgres|12159|LOG:  statement: SELECT d.datname as "Name",

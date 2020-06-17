@@ -1,0 +1,11 @@
+{
+  "name": "node-api-postgres",
+  "version": "0.0.0",
+  "description": "Node API with PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Anders Strömberg",
+  "license": "MIT"
+}

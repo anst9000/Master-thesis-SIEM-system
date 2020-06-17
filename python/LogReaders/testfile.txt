@@ -1,0 +1,5 @@
+2020-05-17 11:49:04: Received PUBLISH from auto-8922D34A-B70C-A734-B4EE-F12C1D6D0CF1 (d0, q0, r0, m0, 'Home/BedRoom/DHT1/Humidity', ... (82 bytes))
+2020-05-17 11:49:04: Sending PUBLISH to auto-E69E0E35-0AB9-591B-E525-DF15417D7700 (d0, q0, r0, m0, 'Home/BedRoom/DHT1/Humidity', ... (82 bytes))
+2020-05-17 11:49:07: Received PUBLISH from auto-8922D34A-B70C-A734-B4EE-F12C1D6D0CF1 (d0, q0, r0, m0, 'Home/BedRoom/DHT1/Temperature', ... (85 bytes))
+2020-05-17 11:49:07: Sending PUBLISH to auto-E69E0E35-0AB9-591B-E525-DF15417D7700 (d0, q0, r0, m0, 'Home/BedRoom/DHT1/Temperature', ... (85 bytes))
+2020-05-17 11:49:09: Socket error on client auto-8922D34A-B70C-A734-B4EE-F12C1D6D0CF1, disconnecting. 

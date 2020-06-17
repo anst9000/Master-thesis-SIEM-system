@@ -1,0 +1,5 @@
+		data = {
+			'Event': f'File {event.src_path} was just modified',
+			'Pattern': self.patterns
+			}
+		json_data = json.dumps(data)
